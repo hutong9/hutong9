@@ -6,11 +6,6 @@
 
 
 <div align="center">
-
-
-
-
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
@@ -29,12 +24,6 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-
-
-
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
-
-
 </div>
